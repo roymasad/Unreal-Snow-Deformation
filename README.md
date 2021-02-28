@@ -57,9 +57,11 @@ Last tested and still working on Unreal Engine 4.25.3
 
 -Testing performance on a large scene
 
--The code hasnt been updated since 2016, it needs to be revised and improved
+-The BP code hasnt been updated since 2016, it needs to be revised and improved
 
 -Better Snow material, i did a quick one for this test
+
+-Maybe its best to do this in C++ instead of BP
 
 
 
