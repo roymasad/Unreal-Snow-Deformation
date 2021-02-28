@@ -1,24 +1,24 @@
 # Unreal-Snow-Deformation
-Snow Deformation BluePrint for Unreal Engine
+Snow Deformation BluePrint for Unreal Engine 4
 
 Code Roy Massaad
 
 License MIT 
 
 
-Description:
+**Description:**
 
-This is BluePrint system i put in together in 2016 to enable snow deformation
+This is a BluePrint system i put in together in 2016 to enable snow deformation
 
 Last tested and still working on Unreal Engine 4.25.3
 
 
-What is in the repository:
+**What is in the repository:**
 
 -Sample Project with 1 level using a third person game controller
 
 
-Features of Snow blueprint:
+**Features of Snow blueprint:**
 
 -Supports flat and curved surfaces
 
@@ -26,17 +26,17 @@ Features of Snow blueprint:
 
 
 
-How to test it:
+**How to test it:**
 
 -Clone the repository and open it with Unreal engine, it has all needed files
 
 
-What should i look for to figure out how it works:
+**What should i look for to figure out how it works:**
 
 -The 2 different blueprint classes of the surfaces and objects affecting them, in addition to the textures, render targets and materials used by them. ( 1 BP for the character, 2 for 2 spheres + 3 for 3 snow surfaces)
 
 
-How does the snow deformation system work ?
+**How does the snow deformation system work ?**
 
 -Some objects can deform snow, some objects act as snow surfaces 
 
@@ -51,7 +51,7 @@ How does the snow deformation system work ?
 -The blueprints expose variable properties that help tune this, such as strength of impact depth+snow normal merger, length of tracing beam..
 
 
-What needs to be improved:
+**What needs to be improved:**
 
 -Smoother deformation (i tried to blend it with another material, but just barely smoothed it)
 
