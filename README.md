@@ -3,7 +3,7 @@ Snow Deformation BluePrint for Unreal Engine 4
 
 Code Roy Massaad
 
-License MIT 
+License BSD 2 
 
 Date: 2018
 
